@@ -3,6 +3,7 @@ import 'package:device_preview/device_preview.dart';
 import 'package:task_1/atlas_petbook.dart';
 
 import 'appointments.dart';
+import 'doctor_profile.dart';
 
 
 
